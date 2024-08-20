@@ -20,7 +20,6 @@
 -   Multiple Emulators
 -   Unblocked Games
 -   Tab Cloaking
--   Proxy Services
 -   Panic Button
 -   Open-Source
 
