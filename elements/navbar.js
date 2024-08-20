@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	document.body.insertAdjacentHTML('afterbegin', navbar);
 });
 
-//////////////////////////////////////////////////
+/////////////////////////////////////////////////
 // Settings Menu
 function toggleSettings() {
 	const settingsModal = document.getElementById('settings-modal');
